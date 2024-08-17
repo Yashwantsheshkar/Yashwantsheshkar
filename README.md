@@ -62,7 +62,7 @@ I am a passionate software developer and 3D motion designer with a strong founda
 
 ## 🏆 Leadership & Responsibilities
 
-- **Photography Cinematography Club Lead:** Managed and mentored club members, organized workshops, and captured event photos.
+- **Photography Cinematography Club :** Managed and mentored club members, organized workshops, and captured event photos.
 - **Freshers' Video Production:** Handled all aspects of the college freshers' video production, from shooting to editing.
 
 ---
