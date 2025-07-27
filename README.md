@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Yashwant 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/Yashwantsheshkar/Yashwantsheshkar/blob/main/banner.jpeg?raw=true" width="100%" />
-</p>
+
 
 
 <p align="center">
